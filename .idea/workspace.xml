@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30df9063-daf6-41ca-b939-acf8d41822b4" name="Changes" comment="Creating Project" />
+    <list default="true" id="30df9063-daf6-41ca-b939-acf8d41822b4" name="Changes" comment="Adding definition for SRP">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OCR.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,11 +56,27 @@
       <option name="project" value="LOCAL" />
       <updated>1695460789610</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workspace">
+      <created>1695465732347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695465732347</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding definition for SRP">
+      <created>1695465919891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695465919891</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating Project" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="Adding definition for SRP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding definition for SRP" />
   </component>
 </project>
